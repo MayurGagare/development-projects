@@ -1,3 +1,3 @@
 # development-projects
-this is my first github repository<br>
+this is my webdevelopment projects github repository<br>
 Author-Mayur Gagare
